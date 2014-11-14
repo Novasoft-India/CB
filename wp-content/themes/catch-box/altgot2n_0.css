@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'AlternateGothic2BTRegular';
+    src: url('altgot2n_0.eot');
+    src: url('altgot2n_0.eot') format('embedded-opentype'),
+         url('altgot2n_0.woff') format('woff'),
+         url('altgot2n_0.ttf') format('truetype'),
+         url('altgot2n_0.svg#AlternateGothic2BTRegular') format('svg');
+}

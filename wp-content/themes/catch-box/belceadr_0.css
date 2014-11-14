@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'BellCentAddBTAddress';
+    src: url('belceadr_0.eot');
+    src: url('belceadr_0.eot') format('embedded-opentype'),
+         url('belceadr_0.woff') format('woff'),
+         url('belceadr_0.ttf') format('truetype'),
+         url('belceadr_0.svg#BellCentAddBTAddress') format('svg');
+}
